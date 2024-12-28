@@ -7,22 +7,23 @@ Soy un **Desarrollador Full Stack** con formación técnica y un fuerte compromi
 ## 🛠️ **Habilidades Técnicas**
 
 - **Lenguajes de Programación**:
-  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) (Laravel)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-  - SCSS
+  - PHP
+  - JavaScript
+  - HTML
+  - CSS
 
 - **Bases de Datos**:
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  - SQL
   - MySQL
   - SQL Server
 
 - **Herramientas y Frameworks**:
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  - Bootstrap
+  - Git
+  - GitHub
   - Astro
+  - Laravel
+  - SCSS
 
 ---
 
