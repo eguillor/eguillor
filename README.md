@@ -1,40 +1,54 @@
-# Hi there, I'm eguillor! 👋
+# 👋 Hola, soy **Facundo Eguillor**
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and technologies. I love working on open-source projects and contributing to the community. Here's a bit more about me:
+Soy un **Desarrollador Full Stack** con formación técnica y un fuerte compromiso con el aprendizaje continuo y el desarrollo profesional. 🚀
 
-## 🛠️ Technologies & Tools
+---
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB
+## 🛠️ **Habilidades Técnicas**
 
-## 🔭 Current Projects
+- **Lenguajes de Programación**:
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) (Laravel)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  - SCSS
 
-- **[Project Name](https://github.com/eguillor/project-name)**: Brief description of the project.
-- **[Another Project](https://github.com/eguillor/another-project)**: Brief description of the project.
+- **Bases de Datos**:
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  - MySQL
+  - SQL Server
 
-## 🌱 Learning & Development
+- **Herramientas y Frameworks**:
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  - Astro
 
-- Currently learning about cloud architecture and microservices.
-- Exploring advanced algorithms and data structures.
+---
 
-## 🤝 Contributions
+## 🎓 **Formación Académica y Cursos**
 
-- Contributor to [Open Source Project](https://github.com/open-source-project).
-- Active participant in the [Community Name](https://community-link).
+- **Cursos Online**:
+  - Curso de Armado y Reparación de PC .
+  - Diseño Web Profesional (Udemy).
+  - PHP y MySQL (Udemy).
+  - Desarrollo de Bases de Datos y Sentencias SQL (Udemy).
+  - JavaScript .
 
-## 📫 How to Reach Me
+---
 
-- **Email:** eguillor@example.com
-- **LinkedIn:** [eguillor](https://www.linkedin.com/in/eguillor)
-- **Twitter:** [@eguillor](https://twitter.com/eguillor)
+## 🌍 **Sobre Mí**
 
-## ⚡ Fun Facts
+- 🎯 Objetivo: Integrarme a un equipo profesional donde pueda aplicar mis habilidades, participar en proyectos desafiantes y seguir creciendo.
+- 🗣️ Actualmente mejorando mi nivel de inglés para colaborar con equipos internacionales.
 
-- I love solving puzzles and playing chess.
-- In my free time, I enjoy hiking and photography.
+---
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+## 📫 **Contacto**
 
-![eguillor's GitHub stats](https://github-readme-stats.vercel.app/api?username=eguillor&show_icons=true&theme=radical)
+- Email: facundo.eguillor@gmail.com
+- LinkedIn: [Facundo Eguillor](https://www.linkedin.com/in/facundo-eguillor/)
+
+---
+
+¡Estoy entusiasmado por contribuir y crecer en el ámbito del desarrollo tecnológico! 🌟
